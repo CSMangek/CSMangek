@@ -1,10 +1,10 @@
-<h1 align='center'>HELLO💻</h1>
-<p align='center'>⚙ C++, C#, JAVA Programmer  💻</p>
+<h1 align='center'>HOLA💻</h1>
+<p align='center'>⚙ C++, C#, JAVA PROGRAMADOR  💻</p>
 
-🎉✨I am currently developing a PixelArt game..<br />
-🛠🚀In my spare time, I create projects and publish them on GitHub.<br/>
+🎉✨Actualmente estoy desarrollando un juego PixelArt.<br />
+🛠🚀En mi tiempo libre creo proyectos y los publico en GitHub.<br/>
 
-<h3>Some technologies I use:</h3>
+<h3>Algunas tecnologías que uso:</h3>
 <a href=" ">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
