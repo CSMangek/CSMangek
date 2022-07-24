@@ -1,19 +1,31 @@
-<h1 align='center'>HOLA💻</h1>
-<p align='center'>⚙ C++, C#, JAVA PROGRAMADOR  💻</p>
+<p align="center"><a href=""><img width="30%" alt="" src="https://www.pngmart.com/files/3/Welcome-PNG-Photo.png" /></a></p>
+<br>
 
-🎉✨Actualmente estoy desarrollando un juego PixelArt.<br />
-🛠🚀En mi tiempo libre creo proyectos y los publico en GitHub.<br/>
+Software developer and video game streamer
 
-<h3>Algunas tecnologías que uso:</h3>
-<a href=" ">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  
-  </a>
+**About me**
+
+❤️ I love writing C#, and building fun experiments on type-level
+
+#### Top Repositories
+
+[Discord Delete_Message](https://github.com/CSMangek/Delete_Message_DJS)
+
+[Discord Clean_Commands](https://github.com/CSMangek/Discord.js-CLEAN-Commands)
+
+[Character Controller Unity3D Basic](https://github.com/CSMangek/Character-Controller-Unity3D)
+
+<code><img height="50" alt="javascript" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+<code><img height="50" alt="c#" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"></code>
+<code><img height="50" alt="c#" src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+<code><img height="55" alt="c#" src="https://cdn.icon-icons.com/icons2/1488/PNG/512/5352-html5_102567.png"></code>
+<code><img height="50" alt="c#" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>
+<code><img height="50" alt="c#" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"></code>
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Twitter" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
+</a>
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="31px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
